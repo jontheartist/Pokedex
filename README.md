@@ -1,3 +1,10 @@
 # Pokedex
 
-#Quick practice using promises, css grid, fetch API
+#Quick practice using:
+
+Javascript promises
+Javscript arrow functions
+fetch API
+promises
+promises all
+CSS Grid
